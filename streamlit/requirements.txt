@@ -1,0 +1,8 @@
+accelerate
+bitsandbytes
+faiss-gpu
+langchain
+peft
+sentence_transformers
+torch
+transformers
